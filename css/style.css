@@ -1,9 +1,29 @@
 header{
    background-image: url("../img/pattern.png"); 
    background-color: rgb(0, 110, 255);
+   background-size: contain;
+   margin-top: -10px;
+   margin-left: -10px;
+   margin-right: -10px;
 }
 header span{
     color: white;
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 70px;
+}
+.color-gray{
+    color: gray;
+}
+.color-blue{
+    color: aqua;
+}
+
+.immagine-main1{
+    width: 1000px;
+    height: 600px;
+    margin-left: -40px;
+}
+.immagine-main2{
+    width: 750px;
+    height: 600px;
 }
