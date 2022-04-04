@@ -10,7 +10,7 @@ header span{
     color: white;
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 70px;
-    
+
 }
 h1{
     margin: 0%;
@@ -39,4 +39,15 @@ h1{
 }
 .giallo{
     background: #ffff00;
+}
+-my-table{
+    width: 100%;
+}
+.riga1 th{
+    width: 600px;
+    text-align: left;
+    background-color: rgba(8, 101, 207, 0.788);
+}
+.riga2{
+    background-color: aqua;
 }
