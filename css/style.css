@@ -51,3 +51,22 @@ h1{
 .riga2{
     background-color: aqua;
 }
+.grigio{
+    color: grey;
+}
+.figura1{
+    color: aliceblue;
+    background-image: url(../img/monitor.jpg);
+    width: 300px;
+    height: 200px;
+    font-size: larger;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.figura2{
+    color: aliceblue;
+    background-image: url(../img/graph.jpg);
+    width: 300px;
+    height: 200px;
+    font-size: larger;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
